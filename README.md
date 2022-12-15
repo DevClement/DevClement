@@ -12,7 +12,7 @@ I am a Full Stack Developer from France <img src="https://ressources.dessindecol
 - 🔭 I have been on a work-study program for 4 years in a small development company named AP&SI located in France.
 - 🌱 I mainly work on web development.
 - 🏍️ I am passionate about computers but also mechanical sports and traveling abroad.
-- 📫 Contact me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Clément-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/kakbar](https://www.linkedin.com/in/clément-degreve-naillon/))
+- 📫 Contact me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Clément-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clément-degreve-naillon/)
 
 ---
 
