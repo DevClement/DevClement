@@ -7,7 +7,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer from France <img src="https://ressources.dessindecole.com/DevClement/flag.svg" width="20"/>.
+I am a Full Stack Developer from France 🇫🇷.
 
 - 🔭 I have been on a work-study program for 4 years in a small development company named AP&SI located in France.
 - 🌱 I mainly work on web development.
